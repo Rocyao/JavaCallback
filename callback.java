@@ -8,7 +8,7 @@ import java.util.Random;
  */
 /**
  *
- * @author bear
+ * @author voider
  */
 public class callback {
 
